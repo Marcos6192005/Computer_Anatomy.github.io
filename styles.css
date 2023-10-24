@@ -5,7 +5,7 @@
     background-image: url('Imágenes/2°\ Fondo.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen en el encabezado */
-    height: 40rem; /* Altura del encabezado (ajusta según tus necesidades) */
+    height: 35rem; /* Altura del encabezado (ajusta según tus necesidades) */
     
     color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
     text-orientation: upright;
@@ -84,6 +84,23 @@ body {
     font-size: 20px;
     padding: 5%;
     text-align:justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenido2 ul {
+    color: #000000;
+    font-size: 20px;
+    margin: 2%;
+    padding: 1%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenido3 {
+    color: #000000;
+    font-size: 20px;
+    padding: 5%;
+    text-align: right;
     font-family: Arial, Helvetica, sans-serif;
 }
 
