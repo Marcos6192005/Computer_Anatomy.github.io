@@ -5,7 +5,7 @@
     background-image: url('Imágenes/2°\ Fondo.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen en el encabezado */
-    height: 35rem; /* Altura del encabezado (ajusta según tus necesidades) */
+    height: 40rem; /* Altura del encabezado (ajusta según tus necesidades) */
     
     color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
     text-orientation: upright;
